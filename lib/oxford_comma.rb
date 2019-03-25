@@ -5,6 +5,6 @@ elsif array.length == 2
   array.join(" and ")
 else
   array[-1].prepend "and"
-  arran.join(", ")
+  array.join(", ")
 end
 end
